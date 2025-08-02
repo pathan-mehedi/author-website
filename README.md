@@ -146,9 +146,9 @@ This project is open source and available under the MIT License.
 ## 👨‍💻 Developer
 
 **Mehedi Pathan**
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- Portfolio: https://www.mehedipathan.com
+- LinkedIn: https://www.linkedin.com/in/mehedi-pathan/
+- Email: eity.mehedipathan@gmail.com
 
 ---
 
